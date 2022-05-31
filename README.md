@@ -18,7 +18,9 @@
 
 ### 仓库介绍
 
-由于github仓库上传容量和上传速度限制，本仓库仅仅托管了游戏中的部分建筑模型和UI界面素材，并且这些模型和素材都是开源的，以方便其他开发者的使用或优化，项目本身请移步Unity的项目托管平台PlasticSCM
+由于github仓库上传容量和上传速度限制，本仓库仅仅托管了游戏中自制的建筑模型和部分UI界面素材，并且这些模型和素材都是开源的，以方便其他开发者的使用或优化，项目本身请移步Unity的项目托管平台PlasticSCM
+
+此外由于项目时间限制，许多制作细节不够精美，也许在将来进一步维护时优化……
 
 > Impression The NJU@ssl://betacodesoftware@sh01-plasticscm.unity.cn:8787
 
@@ -46,6 +48,8 @@ This project applies 3D modeling technology to restore the landscape and archite
 
 ### Introduction to the Repository
 
-Due to the limitation of the uploading capacity and speed of the GitHub warehouse, this warehouse only hosts part of the building models and UI interface materials in the game, and these models and materials are open source to facilitate the use or optimization of other developers. Please move to the project hosting platform plasticscm of unity for the project itself
+Due to the limitation of the uploading capacity and speed of the GitHub warehouse, this warehouse only hosts the self-made building models and  part of UI interface materials in the game, and these models and materials are open source to facilitate the use or optimization of other developers. Please move to the project hosting platform plasticscm of unity for the project itself
+
+And due to the time limit for the project, a lot of details are not presented delicatedly, we may beautify them when maintaining this project afterwards...
 
 > Impression The NJU@ssl://betacodesoftware@sh01-plasticscm.unity.cn:8787
